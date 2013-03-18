@@ -44,8 +44,3 @@ hostpc.domain.net [19/Dec/2010 11:34:21] Host: ['some.malwaredomain.com'] "GET /
 ^ visiting host     ^ date                         ^malware domain visited  ^ request
 
 
-4. About
-------------------
-This application is in the very early stages and is a way for me to learn more about python. Since 
-I have a strong interest in python+malware/incident response/ids etc, this should be pretty fun. Bugs, 
-comments etc to madvillain@evilthings.org
